@@ -1,3 +1,2 @@
 # CS116
-CS116 Class work, WLAC
-C++
+C++ Class work, WLAC
